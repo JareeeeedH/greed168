@@ -1,0 +1,15 @@
+
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #a19f9f;
+}
+
+.home-title{
+    color: white;
+    text-align: center;
+}
+.sub-title{
+    color: white;
+    padding-left: 20px;
+}
